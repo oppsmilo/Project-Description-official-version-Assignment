@@ -2,7 +2,7 @@
 describe my 2D game project in detail
 ---------------------------------------------------
 To make 2D game which has a charactor can move and attack monsters.
-object sketch:
+object sketch:https://github.com/oppsmilo/Project-Description-official-version-Assignment/blob/main/object%20sketch.pdf
 
 illustrate plan:
 
